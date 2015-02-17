@@ -1,5 +1,5 @@
 //Enotation.java
-public class Enotation {
+public class Enotation {// comments
 	public static void main(String args[])
 	{
 		double cellno =912345678L;
